@@ -1,4 +1,4 @@
-# AI Chatbot Assistant (Gemini)
+# AI Chatbot Assistant
 
 Aplikasi Chatbot AI interaktif dan modern berbasis web yang ditenagai oleh **Google Gemini API** (`gemini-3.6-flash` / `gemini-3.1-pro-preview`).
 
